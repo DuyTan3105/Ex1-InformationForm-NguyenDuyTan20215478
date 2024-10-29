@@ -1,0 +1,75 @@
+{
+  "89": {
+    "name": "An Giang",
+    "slug": "an-giang",
+    "type": "tinh",
+    "name_with_type": "Tỉnh An Giang",
+    "code": "89",
+    "quan-huyen": {
+      "883": {
+        "name": "Long Xuyên",
+        "type": "thanh-pho",
+        "slug": "long-xuyen",
+        "name_with_type": "Thành phố Long Xuyên",
+        "path": "Long Xuyên, An Giang",
+        "path_with_type": "Thành phố Long Xuyên, Tỉnh An Giang",
+        "code": "883",
+        "parent_code": "89",
+        "xa-phuong": {
+          "30280": {
+            "name": "Mỹ Bình",
+            "type": "phuong",
+            "slug": "my-binh",
+            "name_with_type": "Phường Mỹ Bình",
+            "path": "Mỹ Bình, Long Xuyên, An Giang",
+            "path_with_type": "Phường Mỹ Bình, Thành phố Long Xuyên, Tỉnh An Giang",
+            "code": "30280",
+            "parent_code": "883"
+          },
+          "30281": {
+            "name": "Phường X",
+            "type": "phuong",
+            "slug": "phuong-x",
+            "name_with_type": "Phường X",
+            "path": "Phường X, Long Xuyên, An Giang",
+            "path_with_type": "Phường X, Thành phố Long Xuyên, Tỉnh An Giang",
+            "code": "30281",
+            "parent_code": "883"
+          }
+        }
+      },
+      "885": {
+        "name": "Quận Y",
+        "type": "quan",
+        "slug": "quan-y",
+        "name_with_type": "Quận Y",
+        "path": "Quận Y, An Giang",
+        "path_with_type": "Quận Y, Tỉnh An Giang",
+        "code": "885",
+        "parent_code": "89",
+        "xa-phuong": {
+          "30290": {
+            "name": "Xã Z",
+            "type": "xa",
+            "slug": "xa-z",
+            "name_with_type": "Xã Z",
+            "path": "Xã Z, Quận Y, An Giang",
+            "path_with_type": "Xã Z, Quận Y, Tỉnh An Giang",
+            "code": "30290",
+            "parent_code": "885"
+          },
+          "30291": {
+            "name": "Xã T",
+            "type": "xa",
+            "slug": "xa-t",
+            "name_with_type": "Xã T",
+            "path": "Xã T, Quận Y, An Giang",
+            "path_with_type": "Xã T, Quận Y, Tỉnh An Giang",
+            "code": "30291",
+            "parent_code": "885"
+          }
+        }
+      }
+    }
+  }
+}
